@@ -1,0 +1,174 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myCustomPropertiesEnabled" value="true" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="font-color" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="submit" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HttpUrlsUsage" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredUrls">
+        <list>
+          <option value="http://localhost" />
+          <option value="http://127.0.0.1" />
+          <option value="http://0.0.0.0" />
+          <option value="http://www.w3.org/" />
+          <option value="http://json-schema.org/draft" />
+          <option value="http://java.sun.com/" />
+          <option value="http://xmlns.jcp.org/" />
+          <option value="http://javafx.com/javafx/" />
+          <option value="http://javafx.com/fxml" />
+          <option value="http://maven.apache.org/xsd/" />
+          <option value="http://maven.apache.org/POM/" />
+          <option value="http://www.springframework.org/schema/" />
+          <option value="http://www.springframework.org/tags" />
+          <option value="http://www.springframework.org/security/tags" />
+          <option value="http://www.thymeleaf.org" />
+          <option value="http://www.jboss.org/j2ee/schema/" />
+          <option value="http://www.jboss.com/xml/ns/" />
+          <option value="http://www.ibm.com/webservices/xsd" />
+          <option value="http://activemq.apache.org/schema/" />
+          <option value="http://schema.cloudfoundry.org/spring/" />
+          <option value="http://schemas.xmlsoap.org/" />
+          <option value="http://cxf.apache.org/schemas/" />
+          <option value="http://primefaces.org/ui" />
+          <option value="http://tiles.apache.org/" />
+          <option value="http://museapi.ilgicltd.com" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <value>
+          <list size="30">
+            <item index="0" class="java.lang.String" itemvalue="mypy" />
+            <item index="1" class="java.lang.String" itemvalue="uwsgi" />
+            <item index="2" class="java.lang.String" itemvalue="google-auth-oauthlib" />
+            <item index="3" class="java.lang.String" itemvalue="googleapis-common-protos" />
+            <item index="4" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="5" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="6" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="7" class="java.lang.String" itemvalue="mypy-extensions" />
+            <item index="8" class="java.lang.String" itemvalue="requests" />
+            <item index="9" class="java.lang.String" itemvalue="loguru" />
+            <item index="10" class="java.lang.String" itemvalue="redis" />
+            <item index="11" class="java.lang.String" itemvalue="newrelic" />
+            <item index="12" class="java.lang.String" itemvalue="django-extensions" />
+            <item index="13" class="java.lang.String" itemvalue="celery" />
+            <item index="14" class="java.lang.String" itemvalue="google-auth-httplib2" />
+            <item index="15" class="java.lang.String" itemvalue="google-api-python-client" />
+            <item index="16" class="java.lang.String" itemvalue="xmltodict" />
+            <item index="17" class="java.lang.String" itemvalue="pytz" />
+            <item index="18" class="java.lang.String" itemvalue="urllib3" />
+            <item index="19" class="java.lang.String" itemvalue="prometheus_client" />
+            <item index="20" class="java.lang.String" itemvalue="google-api-core" />
+            <item index="21" class="java.lang.String" itemvalue="google-auth" />
+            <item index="22" class="java.lang.String" itemvalue="pandas" />
+            <item index="23" class="java.lang.String" itemvalue="sentry-sdk" />
+            <item index="24" class="java.lang.String" itemvalue="flake8" />
+            <item index="25" class="java.lang.String" itemvalue="chardet" />
+            <item index="26" class="java.lang.String" itemvalue="Django" />
+            <item index="27" class="java.lang.String" itemvalue="certifi" />
+            <item index="28" class="java.lang.String" itemvalue="zeep" />
+            <item index="29" class="java.lang.String" itemvalue="djangorestframework" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N801" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="iproxy.hdfc_securities.views.print" />
+          <option value="iproxy.hdfc_securities.views.type" />
+          <option value="iproxy.hdfc_securities.views.dict" />
+          <option value="iproxy.hdfc_securities.views.str" />
+          <option value="iproxy.hdfc_securities.views.len" />
+          <option value="iproxy.hdfc_securities.views.sorted" />
+          <option value="iproxy.hdfc_securities.views.int" />
+          <option value="iproxy.icici_lombard.views.print" />
+          <option value="iproxy.icici_lombard.views.django" />
+          <option value="iproxy.icici_lombard.views.loguru" />
+          <option value="iproxy.icici_lombard.views.request" />
+          <option value="iproxy.icici_lombard.views.dict" />
+          <option value="json" />
+          <option value="requests" />
+          <option value="iproxy.icici_lombard.mock_policy_accounts.str" />
+          <option value="iproxy.icici_lombard.views.len" />
+          <option value="iproxy.icici_lombard.views.type" />
+          <option value="datetime" />
+          <option value="iproxy.icici_lombard.utils.int" />
+          <option value="iproxy.icici_lombard.utils.print" />
+          <option value="iproxy.icici_lombard.views.Exception" />
+          <option value="iproxy.icici_lombard.views.str" />
+          <option value="iproxy.icici_lombard.views.bool" />
+          <option value="iproxy.icici_lombard.utils.str" />
+          <option value="iproxy.icici_lombard.utils.type" />
+          <option value="iproxy.reddoorz.views.dict" />
+          <option value="iproxy.reddoorz.views.Exception" />
+          <option value="iproxy.reddoorz.views.len" />
+          <option value="iproxy.icici_lombard.api_requests.Exception" />
+          <option value="iproxy.icici_lombard.utils.Exception" />
+          <option value="pytz" />
+          <option value="iproxy.icici_lombard.api_requests.print" />
+          <option value="iproxy.max_life.views.print" />
+          <option value="iproxy.max_life.views.dict" />
+          <option value="iproxy.max_life.views.int" />
+          <option value="iproxy.max_life.views.str" />
+          <option value="iproxy.max_life.utils.print" />
+          <option value="csv" />
+          <option value="iproxy.icici_lombard.utils.open" />
+          <option value="iproxy.icici_lombard.api_requests.str" />
+          <option value="iproxy.icici_lombard.api_requests.ConnectionError" />
+          <option value="uuid" />
+          <option value="django.http.request.QueryDict.__setitem__" />
+          <option value="iproxy.icici_lombard.utils.list" />
+          <option value="iproxy.icici_lombard.utils.bool" />
+          <option value="iproxy.icici_lombard.utils.isinstance" />
+          <option value="iproxy.icici_lombard.views.isinstance" />
+          <option value="iproxy.icici_lombard.api_requests.loguru" />
+          <option value="iproxy.icici_lombard.utils.loguru" />
+          <option value="iproxy.icici_lombard.utils.map" />
+          <option value="iproxy.icici_lombard.api_requests.TimeoutError" />
+          <option value="iproxy.icici_lombard.utils.len" />
+          <option value="src.humidity_sensor.*" />
+          <option value="src.temperature_sensor.*" />
+          <option value="src.proximity_sensor.*" />
+          <option value="src.random_sensor_value_generator.*" />
+          <option value="iproxy.utils" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

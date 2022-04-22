@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container w3-green">
+    <h1> Good Morning {{ username }} , Welcome to cs20</h1>
+    <p> Date  : {{ date }}</p>
+    <p> Time  : {{ time }}</p>
+   <button> Apply Now </button>
+    <p></p>
+</div>
+
+<div class="w3-row-padding">
+    {% for course in courses %}
+    <div class="w3-third">
+        <h2>{{ course.title }}</h2>
+        <img src="{{ course.image }}" alt="unavailable" width="200" height="200">
+        <p>{{ course.desc }}</p>
+        <p>{{ course.trainer }}</p>
+        <button> Read More </button>
+    </div>
+    {% endfor %}
+
+</div>
+
+</body>
+</html>
